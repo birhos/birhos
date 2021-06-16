@@ -1,8 +1,4 @@
-### Herkese Merhaba
-
 <img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="290px">
-Ben Haydar Demir. Bilgisayar Mühendisiyim. Yazılımın birçok alanında yer almaktan mutluluk duyuyorum. 
-<br/>⚡ Flutter, Vue.js, .Net Core ve Node.js ile uygulamalar geliştirmekteyim.
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
