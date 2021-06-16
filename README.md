@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="290px">
+<img src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="500px">
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
